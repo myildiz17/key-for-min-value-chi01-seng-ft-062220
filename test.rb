@@ -11,7 +11,7 @@ as=[]
    as<<v
 
  end
- puts as.min
+ puts hash.key(as.min)
 
 end
 # =
