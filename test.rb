@@ -12,7 +12,9 @@ as=[]
    as<<v
 
  end
- puts as.min
+ num=as.min
+
+ puts num
 
 end
 # =
