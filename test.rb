@@ -1,7 +1,7 @@
 
 ikea = {:chair => 25, :table => 85, :mattress => 450}
 veggies = {"apple" => -45, "banana" => -44.5, "carrot" => -44.9}
-hash.key(25)
+#hash.key(25)
 
 def key_for_min_value(arr)
 
