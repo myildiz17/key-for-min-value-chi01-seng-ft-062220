@@ -15,6 +15,7 @@ as=[]
  num=as.min
 
  puts num
+ puts arr.key(num)
 
 end
 # =
