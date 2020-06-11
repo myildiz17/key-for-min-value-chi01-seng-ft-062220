@@ -14,7 +14,9 @@ as=[]
    as<<v
 
  end
- puts as.min
+ num=as.min
+
+ arr.key(num)
 
 end
 # =
